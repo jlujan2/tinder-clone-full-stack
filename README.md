@@ -55,4 +55,8 @@ Tinder Clone Full-Stack Project: ReactJs, Java 17, Spring Boot, Spring Security(
 ## TO DO
 1. Run in AWS
 2. Fixed Routing
-3. Socket 
+3. Web Socket for chat
+4. Docker Client error in Tinder-Card 
+
+
+
