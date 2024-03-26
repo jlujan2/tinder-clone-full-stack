@@ -1,0 +1,13 @@
+version: '3'
+services:
+  tinder-clone-backend:
+    image: "juank/tinder-clone"
+    container_name: tinder-clone-backend
+    ports:
+      - "8080:8080"
+  
+  tinder-clone-client:
+    image: "juank/react-tinder-clone"
+    container_name: tinder-clone-client
+    ports:
+      - "3000:3000"

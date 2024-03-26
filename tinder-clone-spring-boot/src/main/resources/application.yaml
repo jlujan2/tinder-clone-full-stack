@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: tinder-clone
+  data:
+    mongodb:
+      uri: mongodb+srv://jlujanquispe87:IOy4XUXdsumMv4ze@tinder.mkclgzm.mongodb.net/?retryWrites=true&w=majority&appName=tinder
+      database: tinder
+      auto-index-creation: true
